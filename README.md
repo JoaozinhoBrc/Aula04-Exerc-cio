@@ -1,2 +1,2 @@
-# Aula04-Exerc-cio
+# Aula04-Exercício
 Site HTML w/ CSS
